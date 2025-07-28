@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhi </h1>
+<h1 align="center">Hey 👋, I'm Siddhi </h1>
 <h3 align="center">🚀 Aspiring Data Engineer | 💡 Cloud Enthusiast | 📊 Data Pipeline Builder</h3>
 
 <p align="center">

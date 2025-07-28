@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Siddhi </h1>
-<h3 align="center">🚀 Aspiring Data Engineer | 💡 Cloud Enthusiast | 📊 Data Pipeline Builder</h3>
+<h3 align="left">
+  🚀 Aspiring Data Engineer | 💡 Cloud Enthusiast | 📊 Data Pipeline Builder
+</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddhiN10&label=Profile%20views&color=0e75b6&style=flat" alt="SiddhiN10" />
+<p align="right">
+  <img src="https://media.tenor.com/LoUOd7lX9CcAAAAC/woman-coding.gif" width="160" alt="girl coding gif"/>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="Data Girl Animated GIF"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
 </p>
+
 
 ---
 

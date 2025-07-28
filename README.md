@@ -10,7 +10,7 @@
 ### 🌟 About Me
 
 - 🎓 Computer Science graduate with a passion for building **scalable data pipelines** and **real-world analytics solutions**.
-- 🔁 Transitioning into **data engineering** by building projects from scratch using **Azure, Python, Spark, Airflow**, and more.
+- 🔁 Building projects from scratch using **Azure, Python, SQL, Spark, Airflow**, and more.
 - 🛠️ Currently working on:
   - 📚 **Books Library**: End-to-end ingestion and reporting pipeline from Google Books API
   - 🏫 **College ROI Analyzer**: Dashboard to evaluate the return on investment from higher education choices

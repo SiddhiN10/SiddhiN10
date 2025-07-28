@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Aspiring Data Engineer | 💡 Cloud Enthusiast | 📊 Data Pipeline Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=SiddhiN10&label=Profile%20views&color=0e75b6&style=flat" alt="SiddhiN10" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1958453/screenshots/5501393/media/1a0f6b3aa94c474e85e5fd9e03d768f2.gif" width="250" alt="data girl animation"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="Data Girl Animated GIF"/>
 </p>
 
 ---

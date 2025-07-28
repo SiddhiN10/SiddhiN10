@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=SiddhiN10&label=Profile%20views&color=0e75b6&style=flat" alt="SiddhiN10" />
 </p>
 
-<p align="right">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="Data Girl Animated GIF"/>
-</p>
-
-
 ---
 
 ### 🌟 About Me

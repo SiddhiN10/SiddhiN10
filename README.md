@@ -34,11 +34,11 @@
 
 ### 🚀 Featured Projects
 
-- 📚 [**Books Library Data Pipeline**](https://github.com/SiddhiN10/books-library-project)  
+- 📚 [**Books Library Data Pipeline**](https://github.com/SiddhiN10/books-data-pipeline-dashboard)  
   A complete data pipeline using Google Books API → Azure SQL → Airflow → Power BI.  
   _Technologies: Python, Airflow (Docker), Azure SQL, Power BI_
 
-- 🏫 [**College Career ROI Analyzer**](https://github.com/SiddhiN10/college-roi-analyzer)  
+- 🏫 [**College Career ROI Analyzer**](https://github.com/SiddhiN10/college_career_ROI_analyzer)  
   Built an end-to-end OLTP & OLAP architecture to analyze education investment outcomes.  
   _Technologies: Spark, PostgreSQL, Streamlit, Power BI_
 
